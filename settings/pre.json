@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "C:\\Users\\sacenolaza\\go\\src\\github.com\\acenolaza\\rest-api-sample\\settings\\keys\\jwtRS512.key",
+  "PublicKeyPath": "C:\\Users\\sacenolaza\\go\\src\\github.com\\acenolaza\\rest-api-sample\\settings\\keys\\jwtRS512.key.pub",
+  "JWTExpirationDelta": 72
+}
